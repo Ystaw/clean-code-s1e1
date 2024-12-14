@@ -35,7 +35,8 @@
 .task-row-wrapper {
   display: flex;
 }
-ul {
+#incomplete-tasks,
+#completed-tasks {
   margin:0;
   padding: 0px;
 }
